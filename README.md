@@ -1,7 +1,6 @@
 # Machine Learning Engineer Nanodegree
 ## Capstone Project
-Ajitesh Sakaray  
-January 25th, 2020
+
 
 ## I. Definition
 
